@@ -1,0 +1,9 @@
+./**/target/
+./**/src/main/resources/*.yaml
+
+**/target/
+
+**/src/main/resources/*.yaml
+
+**/.mvn/
+.idea
